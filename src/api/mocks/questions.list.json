@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Do you like your salary?",
+    "answers": [
+      {
+        "department": "Testing",
+        "score": 1.9
+      },
+      {
+        "department": "HR",
+        "score": 7.3
+      },
+      {
+        "department": "Sales",
+        "score": 5.1
+      },
+      {
+        "department": "Finance",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "title": "Do you like the office?",
+    "answers": [
+      {
+        "department": "Testing",
+        "score": 8.9
+      },
+      {
+        "department": "HR",
+        "score": 5.5
+      },
+      {
+        "department": "Sales",
+        "score": 2.9
+      },
+      {
+        "department": "Finance",
+        "score": 6.6
+      }
+    ]
+  }, 
+  {
+    "title": "Do you like the testing?",
+    "answers": [
+      {
+        "department": "Testing",
+        "score": 10
+      },
+      {
+        "department": "HR",
+        "score": 5
+      },
+      {
+        "department": "Sales",
+        "score": 4.9
+      },
+      {
+        "department": "Finance",
+        "score": 0
+      }
+    ]
+  }
+]

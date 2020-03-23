@@ -1,0 +1,32 @@
+{
+  "name": "lasoft-test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "color": "^3.1.2",
+    "lodash-es": "^4.17.15",
+    "node-sass": "^4.13.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "./node_modules/react-scripts/bin/react-scripts.js start",
+    "build": "./node_modules/react-scripts/bin/react-scripts.js build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
